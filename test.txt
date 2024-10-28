@@ -1,2 +1,3 @@
 hie
 this is for git review session
+Write the git command
